@@ -14,8 +14,8 @@ Before coming to Chicago, I spent my high school years in the beautiful city of 
 
 My cv is here [cv](invalid)
 
-## Expository writings
-
+Expository writings
+======
 **Complex Multiplication of Elliptic Curves and Abelian Varieties**.\
 Expository paper written for UChicago REU 2022. [pdf](https://yunhansheng.github.io/files/complexmultiplication.pdf)
 
@@ -29,7 +29,15 @@ Expository paper written for UChicago REU 2021. [pdf](http://math.uchicago.edu/~
 Final project for the course *Proseminar in Mathematics* with Prof. Akhil Mathew. [pdf](https://yunhansheng.github.io/files/K-theory.pdf)
 
 **Commutative ring theory**.\
-Class notes taken for the course _Algebra II (commutative algebra)*_ with Prof. Ngo Bao Chau. [pdf](https://yunhansheng.github.io/files/commalg-notes.pdf)
+Class notes for the course _Algebra II (commutative algebra)*_ with Prof. Ngo Bao Chau. [pdf](https://yunhansheng.github.io/files/commalg-notes.pdf)
 
 **Brownian motion and stochastic calculus**.\
-Class notes taken for the course _Brownian motion and stochastic calculus*_ with Prof. Greg Lawler. [pdf](https://yunhansheng.github.io/files/385notes.pdf)
+Class notes for the course _Brownian motion and stochastic calculus*_ with Prof. Greg Lawler. [pdf](https://yunhansheng.github.io/files/385notes.pdf)
+
+Music
+=====
+Here you can access some of my recordings on the piano, organ, and [carillon](https://rockefeller.uchicago.edu/the-carillon). Since I am not a professional musician (although I aspire to be one), needless to say that they are far from perfect.
+
+I also occassionaly write about music. These articles are strongly opinianated and are mostly in Chinese. In the future I plan to write more in English. For Chinese readers you are welcome to follow my 微信公众号 skrjabin, where the articles were originally posted.
+
+[On concerts](https://mp.weixin.qq.com/s/-czhqmV_LL7WGRndT3vSEg)
