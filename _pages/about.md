@@ -14,6 +14,6 @@ Before coming to Chicago, I spent my high school years in the beautiful city of 
 
 Expository writings
 
-Complex Multiplication of Elliptic Curves and Abelian Varieties. Expository paper written in UChicago REU 2022. [pdf]https://yunhansheng.github.io/files/complexmultiplication.pdf)
+**Complex Multiplication of Elliptic Curves and Abelian Varieties**. Expository paper written in UChicago REU 2022. [pdf](https://yunhansheng.github.io/files/complexmultiplication.pdf)
 
 
