@@ -16,20 +16,20 @@ My cv is here [cv](invalid)
 
 ## Expository writings
 
-**Complex Multiplication of Elliptic Curves and Abelian Varieties**.
+**Complex Multiplication of Elliptic Curves and Abelian Varieties**.\
 Expository paper written for UChicago REU 2022. [pdf](https://yunhansheng.github.io/files/complexmultiplication.pdf)
 
-**Complex Multiplication**.
+**Complex Multiplication**.\
 Slides of a talk given at UChicago REU 2022. [pdf](https://yunhansheng.github.io/files/REU_presentation__Copy_.pdf)
 
-**On Realizing Rational and Polynomial Cohomology Rings**.
+**On Realizing Rational and Polynomial Cohomology Rings**.\
 Expository paper written for UChicago REU 2021. [pdf](http://math.uchicago.edu/~may/REU2021/REUPapers/Sheng.pdf)
 
-**Elements of Complex K-theory**.
+**Elements of Complex K-theory**.\
 Final project for the course *Proseminar in Mathematics* with Prof. Akhil Mathew. [pdf](https://yunhansheng.github.io/files/K-theory.pdf)
 
-**Commutative ring theory**.
+**Commutative ring theory**.\
 Class notes taken for the course _Algebra II (commutative algebra)*_ with Prof. Ngo Bao Chau. [pdf](https://yunhansheng.github.io/files/commalg-notes.pdf)
 
-**Brownian motion and stochastic calculus**.
+**Brownian motion and stochastic calculus**.\
 Class notes taken for the course _Brownian motion and stochastic calculus*_ with Prof. Greg Lawler. [pdf](https://yunhansheng.github.io/files/385notes.pdf)
