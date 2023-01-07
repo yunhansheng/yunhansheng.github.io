@@ -16,23 +16,23 @@ My cv is here [cv](invalid)
 
 Expository writings
 ======
-**Complex Multiplication of Elliptic Curves and Abelian Varieties**.\
-Expository paper written for UChicago REU 2022. [pdf](https://yunhansheng.github.io/files/complexmultiplication.pdf)
+**Complex Multiplication of Elliptic Curves and Abelian Varieties**. [pdf](https://yunhansheng.github.io/files/complexmultiplication.pdf)\
+Expository paper written for UChicago REU 2022.
 
-**Complex Multiplication**.\
-Slides of a talk given at UChicago REU 2022. [pdf](https://yunhansheng.github.io/files/REU_presentation__Copy_.pdf)
+**Complex Multiplication**. [pdf](https://yunhansheng.github.io/files/REU_presentation__Copy_.pdf)\
+Slides of a talk given at UChicago REU 2022.
 
-**On Realizing Rational and Polynomial Cohomology Rings**.\
-Expository paper written for UChicago REU 2021. [pdf](http://math.uchicago.edu/~may/REU2021/REUPapers/Sheng.pdf)
+**On Realizing Rational and Polynomial Cohomology Rings**. [pdf](http://math.uchicago.edu/~may/REU2021/REUPapers/Sheng.pdf)\
+Expository paper written for UChicago REU 2021.
 
-**Elements of Complex K-theory**.\
-Final project for the course *Proseminar in Mathematics* with Prof. Akhil Mathew. [pdf](https://yunhansheng.github.io/files/K-theory.pdf)
+**Elements of Complex K-theory**. [pdf](https://yunhansheng.github.io/files/K-theory.pdf)\
+Final project for the course *Proseminar in Mathematics* with Prof. Akhil Mathew.
 
-**Commutative ring theory**.\
-Class notes for the course _Algebra II (commutative algebra)*_ with Prof. Ngo Bao Chau. [pdf](https://yunhansheng.github.io/files/commalg-notes.pdf)
+**Commutative ring theory**. [pdf](https://yunhansheng.github.io/files/commalg-notes.pdf)\
+Class notes for the course _Algebra II (commutative algebra)*_ with Prof. Ngo Bao Chau.
 
-**Brownian motion and stochastic calculus**.\
-Class notes for the course _Brownian motion and stochastic calculus*_ with Prof. Greg Lawler. [pdf](https://yunhansheng.github.io/files/385notes.pdf)
+**Brownian motion and stochastic calculus**. [pdf](https://yunhansheng.github.io/files/385notes.pdf)\
+Class notes for the course _Brownian motion and stochastic calculus*_ with Prof. Greg Lawler.
 
 Music
 =====
