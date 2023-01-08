@@ -38,6 +38,8 @@ Music
 =====
 Here you can access some of my recordings on the piano, organ, and [carillon](https://rockefeller.uchicago.edu/the-carillon). Since I am not a professional musician (although I aspire to be one), needless to say that they are far from perfect.
 
+Bach Italian Concerto BWV 971 [first movemet](https://www.youtube.com/watch?v=hkrxylmRx6M&ab_channel=AlexSheng) [third movement](invalid)
+
 I also occassionaly write about music. These articles are strongly opinianated and are mostly in Chinese. In the future I plan to write more in English. For Chinese readers you are welcome to follow my 微信公众号 skrjabin, where the articles were originally posted.
 
 [On concerts](https://mp.weixin.qq.com/s/-czhqmV_LL7WGRndT3vSEg)
