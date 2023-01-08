@@ -36,9 +36,11 @@ Class notes for the course _Brownian motion and stochastic calculus*_ with Prof.
 
 Music
 =====
-Here you can access some of my recordings on the piano, organ, and [carillon](https://rockefeller.uchicago.edu/the-carillon). Since I am not a professional musician (although I aspire to be one), needless to say that they are far from perfect.
+Here you can access some of my recordings on piano, organ, and [carillon](https://rockefeller.uchicago.edu/the-carillon). Since I am not a professional musician (although I aspire to be one), needless to say that they're far from perfect.
 
-Bach Italian Concerto BWV 971 [first movemet](https://www.youtube.com/watch?v=hkrxylmRx6M&ab_channel=AlexSheng) [third movement](invalid)
+Bach Italian Concerto BWV 971 [first movemet](https://www.youtube.com/watch?v=hkrxylmRx6M&ab_channel=AlexSheng), [third movement](invalid)
+
+Beethoven Piano Sonata No. 17 in D minor Op. 31/2 [third movement](https://www.youtube.com/watch?v=e0xY3oCbO94&ab_channel=AlexSheng)
 
 I also occassionaly write about music. These articles are strongly opinianated and are mostly in Chinese. In the future I plan to write more in English. For Chinese readers you are welcome to follow my 微信公众号 skrjabin, where the articles were originally posted.
 
