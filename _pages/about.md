@@ -12,7 +12,7 @@ I am a third-year undergraduate student at the University of Chicago. I major in
 
 Before coming to Chicago, I spent my high school years in the beautiful city of [Maastricht](https://www.holland.com/upload_mm/d/f/c/69557_fullimage_sint-servaas-brug-maas-maastricht-stad-eighty8things-1360%20copy.jpg), the Netherlands. Before that, I lived a happy life in [Hefei](https://cdn.britannica.com/58/138758-050-E5300BEB/Hefei-Anhui-China.jpg), China.
 
-Here is my [cv](yunhansheng.github.io/files/cv.pdf).
+Here is my [cv](https://yunhansheng.github.io/files/cv.pdf).
 
 Expository writings
 ======
