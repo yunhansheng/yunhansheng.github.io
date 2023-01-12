@@ -44,6 +44,10 @@ Beethoven Piano Sonata No. 17 in D minor Op. 31/2 [third movement](https://www.y
 
 I also occassionaly write about music. These articles are often mixed with strong personal opinions. They are mostly in Chinese, although I plan to write some more in English in the future. For Chinese readers you are welcome to follow my 微信公众号 skrjabin, where the articles were originally posted.
 
-[所闻（一）](https://mp.weixin.qq.com/s/-czhqmV_LL7WGRndT3vSEg) This is an article documenting my recent concert experiences.
+[所闻（一)](https://mp.weixin.qq.com/s/-czhqmV_LL7WGRndT3vSEg) This is an article documenting my recent concert experiences.
 
 [幻想曲式：北德管风琴学派与巴赫](https://mp.weixin.qq.com/s/_mw-4QJDOKoSm0dVjGMLqg) This is translated from the final paper I wrote for my music class, on the topic of Stylus Phantasticus as represented by the north German organ school. Here is a link to the English version: [The Stylus Phantasticus in the Free Organ Works of J. S. Bach and the North German Tradition](yunhansheng.github.io/files/stylus_phantasticus.pdf)
+
+[20210816](https://mp.weixin.qq.com/s/UOr-OVXynU4PzciSk6kH-g) Some random thoughts and reviews of recordings.
+
+[暴风雨中的哲思——分析贝多芬d小调第十七号钢琴奏鸣曲](https://mp.weixin.qq.com/s/_wPQFxA-l9xM0IVSPOoOIg) A close study of Beethoven piano sonata No. 17, Op. 31/2.
