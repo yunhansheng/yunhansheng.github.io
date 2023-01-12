@@ -42,7 +42,7 @@ Bach Italian Concerto BWV 971 [first movemet](https://www.youtube.com/watch?v=hk
 
 Beethoven Piano Sonata No. 17 in D minor Op. 31/2 [third movement](https://www.youtube.com/watch?v=e0xY3oCbO94&ab_channel=AlexSheng)
 
-I also occassionaly write about music. These articles are often mixed with strong personal opinions. They are mostly in Chinese, although I plan to write some more in English in the future. For Chinese readers you are welcome to follow my 微信公众号 skrjabin, where the articles were originally posted.
+I also occassionaly write about music. These articles are often mixed with strong personal opinions. They are mostly in Chinese, although I plan to write some more in English in the future.
 
 [所闻（一)](https://mp.weixin.qq.com/s/-czhqmV_LL7WGRndT3vSEg) This is an article documenting my recent concert experiences.
 
