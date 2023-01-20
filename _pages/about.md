@@ -38,13 +38,17 @@ Music
 =====
 Here you can access some of my recordings on piano, organ, and [carillon](https://rockefeller.uchicago.edu/the-carillon). Since I am not a professional musician (although I aspire to be one), needless to say that they're far from perfect.
 
-Bach Italian Concerto BWV 971 [first movemet](https://www.youtube.com/watch?v=hkrxylmRx6M&ab_channel=AlexSheng), [third movement](https://www.youtube.com/watch?v=Waee-g4nli0&ab_channel=AlexSheng)
+Bach: Italian Concerto BWV 971 [first movemet](https://www.youtube.com/watch?v=hkrxylmRx6M&ab_channel=AlexSheng), [third movement](https://www.youtube.com/watch?v=Waee-g4nli0&ab_channel=AlexSheng)
+[Bach: Prelude and Fugue in E Major from WTC Book II (BWV 878)](https://www.youtube.com/watch?v=oTW7xSsUbEU&ab_channel=AlexSheng)
+Beethoven: Piano Sonata No. 17 in D minor Op. 31/2 [third movement](https://www.youtube.com/watch?v=e0xY3oCbO94&ab_channel=AlexSheng)
 
-Beethoven Piano Sonata No. 17 in D minor Op. 31/2 [third movement](https://www.youtube.com/watch?v=e0xY3oCbO94&ab_channel=AlexSheng)
+[Bach: Christ lag in Todesbanden BWV 718](https://www.youtube.com/watch?v=uGtclkXkJu4&t=16s&ab_channel=AlexSheng)
+[Buxtehude: Nun bitten wir den heiligen Geist BuxWV 208](https://www.youtube.com/watch?v=h3VJskoBI0o&ab_channel=AlexSheng)
+[Pachelbel: Vom Himmel hoch, da komm ich her, P. 52](https://www.youtube.com/watch?v=WN9jrDjQHg4&ab_channel=AlexSheng)
 
 I also occassionaly write about music. These articles are often mixed with strong personal opinions. They are mostly in Chinese, although I plan to write some more in English in the future.
 
-[所闻（一)](https://mp.weixin.qq.com/s/-czhqmV_LL7WGRndT3vSEg) This is an article documenting my recent concert experiences.
+[所闻（一）](https://mp.weixin.qq.com/s/-czhqmV_LL7WGRndT3vSEg) This is an article documenting my recent concert experiences.
 
 [幻想曲式：北德管风琴学派与巴赫](https://mp.weixin.qq.com/s/_mw-4QJDOKoSm0dVjGMLqg) This is translated from the final paper I wrote for my music class, on the topic of Stylus Phantasticus as represented by the north German organ school. Here is a link to the English version: [The Stylus Phantasticus in the Free Organ Works of J. S. Bach and the North German Tradition](https://yunhansheng.github.io/files/stylus_phantasticus.pdf)
 
