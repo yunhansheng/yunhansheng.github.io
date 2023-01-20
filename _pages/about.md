@@ -20,10 +20,10 @@ Expository writings
 Final paper written for UChicago REU 2022. Hilbert's twelfth problem asks: given an abelian extension of a number field _K_, what are its generators? When _K_ is an imaginary quadratic field, complex multiplication provides a solution. It turns out that in this case, the generators are closely related to certain invariants attached to an elliptic curve whose endomorphism group is the ring of integers of _K_.
 
 **Complex Multiplication**. [pdf](https://yunhansheng.github.io/files/REU_presentation__Copy_.pdf)\
-Slides of a talk given at UChicago REU 2022. I explain the phenomenon of complex multiplication.
+Slides of a talk given at UChicago REU 2022.
 
 **On Realizing Rational and Polynomial Cohomology Rings**. [pdf](http://math.uchicago.edu/~may/REU2021/REUPapers/Sheng.pdf)\
-Final paper written for UChicago REU 2021. This paper is centered around on the following _inverse cohomology_ problem: which graded _R_-algebras can be realized as the cohomology ring (with coefficients in _R_) of a topological space? We explain in detail the 1976 paper of Bousfield and Gugenheim, _On PL de Rham Theory and Rational Homotopy Type_, which solves the problem for _R_ is the ring of rational numbers. The paper used Quillen's model categories in an essential way.
+Final paper written for UChicago REU 2021. This paper focuses on the following _inverse cohomology_ problem: which graded _R_-algebras can be realized as the cohomology ring (with coefficients in _R_) of a topological space? We explain in detail the 1976 paper of Bousfield and Gugenheim, _On PL de Rham Theory and Rational Homotopy Type_, which solves the problem for _R_ is the ring of rational numbers. The paper uses Quillen's model categories in an essential way.
 
 **Elements of Complex K-theory**. [pdf](https://yunhansheng.github.io/files/K-theory.pdf)\
 Final project for the course *Proseminar in Mathematics* with Prof. Akhil Mathew. I focused on explaning how topological K-theory is related to singular cohomology via Chern characters, the Atiyah-Hirzebruch spectral sequence, and the Adams operation.
@@ -48,10 +48,7 @@ Beethoven: Piano Sonata No. 17 in D minor Op. 31/2 [third movement](https://www.
 
 I also occassionaly write about music. These articles are often mixed with strong personal opinions. They are mostly in Chinese, although I plan to write some more in English in the future.
 
-[所闻（一）](https://mp.weixin.qq.com/s/-czhqmV_LL7WGRndT3vSEg) This is an article documenting my recent concert experiences.
-
-[幻想曲式：北德管风琴学派与巴赫](https://mp.weixin.qq.com/s/_mw-4QJDOKoSm0dVjGMLqg) This is translated from the final paper I wrote for my music class, on the topic of Stylus Phantasticus as represented by the north German organ school. Here is a link to the English version: [The Stylus Phantasticus in the Free Organ Works of J. S. Bach and the North German Tradition](https://yunhansheng.github.io/files/stylus_phantasticus.pdf)
-
-[20210816](https://mp.weixin.qq.com/s/UOr-OVXynU4PzciSk6kH-g) Some random thoughts and reviews of recordings.
-
+[所闻（一）](https://mp.weixin.qq.com/s/-czhqmV_LL7WGRndT3vSEg) This is an article documenting my recent concert experiences.\
+[幻想曲式：北德管风琴学派与巴赫](https://mp.weixin.qq.com/s/_mw-4QJDOKoSm0dVjGMLqg) This is translated from the final paper I wrote for my music class, on the topic of Stylus Phantasticus as represented by the north German organ school. Here is a link to the English version: [The Stylus Phantasticus in the Free Organ Works of J. S. Bach and the North German Tradition](https://yunhansheng.github.io/files/stylus_phantasticus.pdf)\
+[20210816](https://mp.weixin.qq.com/s/UOr-OVXynU4PzciSk6kH-g) Some random thoughts and reviews of recordings.\
 [暴风雨中的哲思——分析贝多芬d小调第十七号钢琴奏鸣曲](https://mp.weixin.qq.com/s/_wPQFxA-l9xM0IVSPOoOIg) A close study of Beethoven piano sonata No. 17, Op. 31/2.
