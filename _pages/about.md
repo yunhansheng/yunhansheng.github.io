@@ -28,6 +28,9 @@ Final paper written for UChicago REU 2021. This paper focuses on the following _
 **Elements of Complex K-theory**. [pdf](https://yunhansheng.github.io/files/K-theory.pdf)\
 Final project for the course *Proseminar in Mathematics* with Prof. Akhil Mathew. I focused on explaning how topological K-theory is related to singular cohomology via Chern characters, the Atiyah-Hirzebruch spectral sequence, and the Adams operation.
 
+**Kähler manifolds and Hodge theory**. [pdf](https://yunhansheng.github.io/files/hodge.pdf)\
+Final project for the course *Topology and Geometry 2: Differential Topology* with Prof. Eduard Looijenga. I wrote about the basics of complex and Kähler manifolds, and outlined a proof of Hodge decomposition assuming the regularity lemma from functional analysis. I also discussed some applications of Hodge theory.
+
 **Commutative ring theory**. [pdf](https://yunhansheng.github.io/files/commalg-notes.pdf)\
 Class notes for the course _Algebra II (commutative algebra)*_ with Prof. Ngo Bao Chau.
 
