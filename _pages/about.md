@@ -41,19 +41,21 @@ Music
 =====
 Here you can access some of my recordings on piano, organ, and [carillon](https://rockefeller.uchicago.edu/the-carillon). Since I am not a professional musician (although I aspire to be one), needless to say that they're far from perfect.
 
-Bach: Italian Concerto BWV 971 [first movemet](https://www.youtube.com/watch?v=hkrxylmRx6M&ab_channel=AlexSheng), [third movement](https://www.youtube.com/watch?v=Waee-g4nli0&ab_channel=AlexSheng)\
-[Bach: Prelude and Fugue in E Major from WTC Book II (BWV 878)](https://www.youtube.com/watch?v=oTW7xSsUbEU&ab_channel=AlexSheng)\
+J. S. Bach: Italian Concerto BWV 971 [first movemet](https://www.youtube.com/watch?v=hkrxylmRx6M&ab_channel=AlexSheng), [third movement](https://www.youtube.com/watch?v=Waee-g4nli0&ab_channel=AlexSheng)\
+J. S. Bach: [Prelude and Fugue in E Major from WTC Book II (BWV 878)](https://www.youtube.com/watch?v=oTW7xSsUbEU&ab_channel=AlexSheng)\
 Beethoven: Piano Sonata No. 17 in D minor Op. 31/2 [third movement](https://www.youtube.com/watch?v=e0xY3oCbO94&ab_channel=AlexSheng)
 
-[Bach: Christ lag in Todesbanden BWV 718](https://www.youtube.com/watch?v=uGtclkXkJu4&t=16s&ab_channel=AlexSheng)\
-[Buxtehude: Nun bitten wir den heiligen Geist BuxWV 208](https://www.youtube.com/watch?v=h3VJskoBI0o&ab_channel=AlexSheng)\
-[Pachelbel: Vom Himmel hoch, da komm ich her, P. 52](https://www.youtube.com/watch?v=WN9jrDjQHg4&ab_channel=AlexSheng)
+J. S. Bach: [Christ lag in Todesbanden BWV 718](https://www.youtube.com/watch?v=uGtclkXkJu4&t=16s&ab_channel=AlexSheng)\
+Buxtehude: [Nun bitten wir den heiligen Geist BuxWV 208](https://www.youtube.com/watch?v=h3VJskoBI0o&ab_channel=AlexSheng)\
+Pachelbel: [Vom Himmel hoch, da komm ich her, P. 52](https://www.youtube.com/watch?v=WN9jrDjQHg4&ab_channel=AlexSheng)
 
-I also write about music. These articles are often mixed with strong personal opinions. They are mostly in Chinese published on my 微信公众号, although I plan to write some more in English in the future.
+I also write about music. These articles are often mixed with strong personal opinions. They are mostly in Chinese and are published on my 微信公众号, although I plan to write some more in English in the future.
 
-[追寻钟声的脚步](https://mp.weixin.qq.com/s/GmaqEDY9dhYV3VYhS5qB7w) Documenting my travelling experience in Europe where I play on different caillons.\
+[追寻钟声的脚步](https://mp.weixin.qq.com/s/GmaqEDY9dhYV3VYhS5qB7w) Documenting my trip to Europe where I play on different caillons.\
 [所闻（一）](https://mp.weixin.qq.com/s/-czhqmV_LL7WGRndT3vSEg) Some concertgoing experiences.\
-[幻想曲式：北德管风琴学派与巴赫](https://mp.weixin.qq.com/s/_mw-4QJDOKoSm0dVjGMLqg) This is translated from the final paper I wrote for a music course, on the topic of _Stylus Phantasticus_ as represented by the north German organ school. Here is a link to the English version: [The Stylus Phantasticus in the Free Organ Works of J. S. Bach and the North German Tradition](https://yunhansheng.github.io/files/stylus_phantasticus.pdf)\
-[一篇德语翻译练习](https://mp.weixin.qq.com/s/M27uN_ACzHyyAs8nz0CaPQ) This is Chinese translation of a paper in German on Bach's[ _Pièce d'Orgue_ BWV 572](https://www.youtube.com/watch?v=9Lrv1oR1WU4&ab_channel=toxiconegro), a piece that I love dearly.\
+[幻想曲式：北德管风琴学派与巴赫](https://mp.weixin.qq.com/s/_mw-4QJDOKoSm0dVjGMLqg) This is translated from the final paper I wrote for a music course, on the topic of _Stylus Phantasticus_ as represented by the north German organ school. Here is a link to the English version: [The Stylus Phantasticus in the Free Organ Works of J. S. Bach and the North German Tradition](https://yunhansheng.github.io/files/stylus_phantasticus.pdf)
+
+[一篇德语翻译练习](https://mp.weixin.qq.com/s/M27uN_ACzHyyAs8nz0CaPQ) This is Chinese translation of a paper in German on Bach's[ _Pièce d'Orgue_ BWV 572](https://www.youtube.com/watch?v=9Lrv1oR1WU4&ab_channel=toxiconegro), a piece that I love dearly.
+
 [20210816](https://mp.weixin.qq.com/s/UOr-OVXynU4PzciSk6kH-g) Some random thoughts and reviews of recordings.\
 [暴风雨中的哲思——分析贝多芬d小调第十七号钢琴奏鸣曲](https://mp.weixin.qq.com/s/_wPQFxA-l9xM0IVSPOoOIg) A detailed analysis of Beethoven piano sonata No. 17, Op. 31/2.
