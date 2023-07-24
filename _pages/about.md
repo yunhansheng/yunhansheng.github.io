@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate student at the University of Chicago. I major in mathematics and minor in Germanic studies. My mathematical interest lies in **homotopy theory**, **number theory**, **algebraic geometry**, and their areas of intersection. Stuff that I've enjoyed learning about include chromatic homotopy theory, K-theory, Galois representations, and Fourier–Mukai transform.
+I am a fourth-year undergraduate student at the University of Chicago. My mathematical interest lies in **homotopy theory**, **number theory**, **algebraic geometry**, and their areas of intersection. Stuff that I've enjoyed learning about include chromatic homotopy theory, K-theory, Galois representations, and Fourier–Mukai transform.
 
 Before coming to Chicago, I spent my high school years in the beautiful city of [Maastricht](https://www.holland.com/upload_mm/d/f/c/69557_fullimage_sint-servaas-brug-maas-maastricht-stad-eighty8things-1360%20copy.jpg), the Netherlands. Before that, I lived a happy life in [Hefei](https://cdn.britannica.com/58/138758-050-E5300BEB/Hefei-Anhui-China.jpg), China.
 
@@ -50,7 +50,7 @@ Beethoven: Piano Sonata No. 17 in D minor Op. 31/2 [third movement](https://www.
 J. S. Bach: [Christ lag in Todesbanden BWV 718](https://www.youtube.com/watch?v=uGtclkXkJu4&t=16s&ab_channel=AlexSheng)\
 Buxtehude: [Nun bitten wir den heiligen Geist BuxWV 208](https://www.youtube.com/watch?v=h3VJskoBI0o&ab_channel=AlexSheng)\
 Pachelbel: [Vom Himmel hoch, da komm ich her, P. 52](https://www.youtube.com/watch?v=WN9jrDjQHg4&ab_channel=AlexSheng)\
-J. S. Bach's _Wachet auf, ruft uns die Stimme_ BWV 645 & Buxtehude's Prelude, Fugue & Chaconne in C Major, BuxWV 137 [recital](https://www.youtube.com/watch?v=FXLOuor5fFA&ab_channel=AlexSheng)
+J. S. Bach's Wachet auf, ruft uns die Stimme BWV 645 & Buxtehude's Prelude, Fugue & Chaconne in C Major, BuxWV 137 [recital](https://www.youtube.com/watch?v=FXLOuor5fFA&ab_channel=AlexSheng)
 
 I also write about music. They are mostly in Chinese and are published on my 微信公众号, although I plan to write some more in English in the future.
 
@@ -59,4 +59,4 @@ I also write about music. They are mostly in Chinese and are published on my 微
 [幻想曲式：北德管风琴学派与巴赫](https://mp.weixin.qq.com/s/_mw-4QJDOKoSm0dVjGMLqg) This is translated from the final paper I wrote for a music course, on the topic of _Stylus Phantasticus_ as represented by the north German organ school.\
 [20210816](https://mp.weixin.qq.com/s/UOr-OVXynU4PzciSk6kH-g) Some random thoughts and reviews of recordings.\
 [暴风雨中的哲思——分析贝多芬d小调第十七号钢琴奏鸣曲](https://mp.weixin.qq.com/s/_wPQFxA-l9xM0IVSPOoOIg) A detailed analysis of Beethoven piano sonata No. 17, Op. 31/2.\
-[一篇德语翻译练习](https://mp.weixin.qq.com/s/M27uN_ACzHyyAs8nz0CaPQ) This is a Chinese translation of a paper in German on Bach's[ _Pièce d'Orgue_ BWV 572](https://www.youtube.com/watch?v=9Lrv1oR1WU4&ab_channel=toxiconegro), a piece that I love dearly.\
+[一篇德语翻译练习](https://mp.weixin.qq.com/s/M27uN_ACzHyyAs8nz0CaPQ) This is a Chinese translation of a paper in German on Bach's[ _Pièce d'Orgue_ BWV 572](https://www.youtube.com/watch?v=9Lrv1oR1WU4&ab_channel=toxiconegro), a piece that I love dearly.
