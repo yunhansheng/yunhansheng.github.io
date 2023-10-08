@@ -57,7 +57,7 @@ J. S. Bach's Wachet auf, ruft uns die Stimme BWV 645 & Buxtehude's Prelude, Fugu
 
 I also write about music. They are mostly in Chinese and are published on my 微信公众号, although I plan to write some more in English in the future.
 
-[林寒涧肃，往事千端——马勒第九交响曲（第一乐章）](https://mp.weixin.qq.com/s/oknzztdfyN9fTTCO6I6gMw) On the first movement of Mahler's 9th symphony.
+[林寒涧肃，往事千端——马勒第九交响曲（第一乐章）](https://mp.weixin.qq.com/s/oknzztdfyN9fTTCO6I6gMw) On the first movement of Mahler's 9th symphony.\
 [追寻钟声的脚步](https://mp.weixin.qq.com/s/GmaqEDY9dhYV3VYhS5qB7w) Documenting my trip to Europe where I play on different caillons.\
 [所闻（一）](https://mp.weixin.qq.com/s/-czhqmV_LL7WGRndT3vSEg) Some concertgoing experiences.\
 [幻想曲式：北德管风琴学派与巴赫](https://mp.weixin.qq.com/s/_mw-4QJDOKoSm0dVjGMLqg) This is translated from the final paper I wrote for a music course, on the topic of _Stylus Phantasticus_ as represented by the north German organ school.\
