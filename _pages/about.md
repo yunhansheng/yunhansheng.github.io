@@ -22,11 +22,14 @@ Final paper written for the 2023 UChicago REU. This article is a detailed survey
 **Power operations and HKR character theory**. [pdf](https://yunhansheng.github.io/files/power.pdf)\
 These are some notes I took while reading Stapleton's survey paper _Lubin-Tate theory, character theory, and power operations_. It is about extending the power operations on Morava _E_-theory to the codomain of the Hopkins-Kuhn-Ravenel character map.
 
+**Phylogenetic Treespace**. [pdf](https://yunhansheng.github.io/files/tree.pdf)\
+Slides of a participant talk given at the 2023 PCMI Undergraduate Summer School. It is based on the paper _Geometry of the Space of Phylogenetic Trees_ by Billera, Holmes, and Vogtmann.
+
 **Complex multiplication of elliptic curves and abelian varieties**. [pdf](https://yunhansheng.github.io/files/complexmultiplication.pdf)\
 Final paper written for the 2022 UChicago REU. Hilbert's twelfth problem asks: given an abelian extension of a number field _K_, what are its generators? When _K_ is an imaginary quadratic field, complex multiplication provides a solution. It turns out that in this case, the generators are closely related to certain invariants attached to an elliptic curve whose endomorphism group is the ring of integers of _K_.
 
 **Complex Multiplication**. [pdf](https://yunhansheng.github.io/files/REU_presentation__Copy_.pdf)\
-Slides of a talk given at UChicago REU 2022.
+Slides of a participant talk given at the 2022 UChicago REU.
 
 **On realizing rational and polynomial cohomology rings**. [pdf](http://math.uchicago.edu/~may/REU2021/REUPapers/Sheng.pdf)\
 Final paper written for the 2021 UChicago REU. This paper focuses on the following _inverse cohomology_ problem: which graded _R_-algebras can be realized as the cohomology ring (with coefficients in _R_) of a topological space? We explain in detail the 1976 paper of Bousfield and Gugenheim, _On PL de Rham Theory and Rational Homotopy Type_, which solves the problem for _R_ is the ring of rational numbers. The paper uses Quillen's model categories in an essential way.
