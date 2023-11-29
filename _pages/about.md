@@ -16,11 +16,14 @@ Here is my [cv](https://yunhansheng.github.io/files/cv.pdf). You can reach me at
 
 Expository writings
 ======
+**Notes on real orientations**. [pdf](https://yunhansheng.github.io/files/real.pdf)\
+This set of notes is written for a reading course supervised by Prof. Peter May, where I intend to explain in detail the results and argument of the paper _Real orientaions of Lubin-Tate spectra_ by Jeremy Hahn and XiaoLin Danny Shi. It also contains an exposition on the Ando-Blumberg-Gepner-Hopkins-Rezk construction of the Thom spectra functor.
+
 **Cofreeness of Lubin-Tate theory**. [pdf](https://yunhansheng.github.io/files/cofree.pdf)\
-Final paper written for the 2023 UChicago REU. This article is a detailed survey of Section 3 of the 2020 paper _The chromatic Nullstellensatz_ by Burklund, Schlank, and Yuan. It aims to prove that at the level of algebras, Lubin-Tate theory _E_ is cofree, i.e., right adjoint to some forgetful functor forgetting the structure of power operations. This builds on my previous notes on power operations.
+Final paper written for the 2023 UChicago REU. This article is a detailed survey of Section 3 of the 2020 paper _The chromatic Nullstellensatz_ by Burklund, Schlank, and Yuan. It aims to prove that at the level of algebras, Lubin-Tate theory _E_ is cofree, i.e., right adjoint to some forgetful functor forgetting the structure of power operations. This builds on my previous notes on power operations. 
 
 **Power operations and HKR character theory**. [pdf](https://yunhansheng.github.io/files/power.pdf)\
-These are some notes I took while reading Stapleton's survey paper _Lubin-Tate theory, character theory, and power operations_. It is about extending the power operations on Morava _E_-theory to the codomain of the Hopkins-Kuhn-Ravenel character map.
+These are some notes I took while reading Stapleton's survey paper _Lubin-Tate theory, character theory, and power operations_. It is about extending the power operations on Morava _E_-theory to the codomain of the Hopkins-Kuhn-Ravenel character map. Important results by Strickland and Ando-Hopkins-Strickland on the moduli-theoretic interpretation of Lubin-Tate theory is introduced.
 
 **Phylogenetic Treespace**. [pdf](https://yunhansheng.github.io/files/tree.pdf)\
 Slides of a participant talk given at the 2023 PCMI Undergraduate Summer School. It is based on the paper _Geometry of the Space of Phylogenetic Trees_ by Billera, Holmes, and Vogtmann.
