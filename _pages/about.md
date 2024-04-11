@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate student at the University of Chicago. My mathematical interest lies in **homotopy theory**, **number theory**, **algebraic geometry**, and their areas of intersection. Stuff that I've enjoyed learning about include chromatic homotopy theory, K-theory, Galois representations, and Fourier–Mukai transform.
+I am a fourth-year undergraduate student at the University of Chicago. Starting September 2024 I will be a PhD student at the University of Michigan at Ann Arbor.
+
+My mathematical interest lies in **homotopy theory**, **number theory**, **algebraic geometry**, and their areas of intersection. Stuff that I've enjoyed learning about include chromatic homotopy theory, K-theory, Galois representations, and Fourier–Mukai transform.
 
 Before coming to Chicago, I spent my high school years in the beautiful city of [Maastricht](https://www.holland.com/upload_mm/d/f/c/69557_fullimage_sint-servaas-brug-maas-maastricht-stad-eighty8things-1360%20copy.jpg), the Netherlands. Before that, I lived a happy life in [Hefei](https://cdn.britannica.com/58/138758-050-E5300BEB/Hefei-Anhui-China.jpg), China.
 
@@ -51,19 +53,16 @@ Class notes for the course _Brownian motion and stochastic calculus*_ with Prof.
 
 Music
 =====
-Here you can access some of my recordings on piano, organ, and [carillon](https://rockefeller.uchicago.edu/the-carillon). Since I am not a professional musician (although I aspire to be one), needless to say that they're far from perfect.
+I play piano, organ, and [carillon](https://rockefeller.uchicago.edu/the-carillon). You can access some of my recordings on [Youtube](https://www.youtube.com/channel/UC8rZi3endlvKFcRgIQ51D9A) or [Bilibilibi](https://space.bilibili.com/350146251). Since I am not a professional musician, needless to say that they're far from perfect. Here are some Bach:
 
 J. S. Bach: Italian Concerto BWV 971 [first movemet](https://www.youtube.com/watch?v=hkrxylmRx6M&ab_channel=AlexSheng), [third movement](https://www.youtube.com/watch?v=Waee-g4nli0&ab_channel=AlexSheng)\
 J. S. Bach: [Prelude and Fugue in E Major from WTC Book II (BWV 878)](https://www.youtube.com/watch?v=oTW7xSsUbEU&ab_channel=AlexSheng)\
-Beethoven: Piano Sonata No. 17 in D minor Op. 31/2 [third movement](https://www.youtube.com/watch?v=e0xY3oCbO94&ab_channel=AlexSheng)\
 Medtner: [Sonata-Reminiscenza from _Forgotten Melodies_, Op. 38 No. 1](https://www.youtube.com/watch?v=-QdifBQKV6A)\
-J. S. Bach: [Christ lag in Todesbanden BWV 718](https://www.youtube.com/watch?v=uGtclkXkJu4&t=16s&ab_channel=AlexSheng)\
-Buxtehude: [Nun bitten wir den heiligen Geist BuxWV 208](https://www.youtube.com/watch?v=h3VJskoBI0o&ab_channel=AlexSheng)\
-Pachelbel: [Vom Himmel hoch, da komm ich her, P. 52](https://www.youtube.com/watch?v=WN9jrDjQHg4&ab_channel=AlexSheng)\
 J. S. Bach's Wachet auf, ruft uns die Stimme BWV 645 & Buxtehude's Prelude, Fugue & Chaconne in C Major, BuxWV 137 [recital](https://www.youtube.com/watch?v=FXLOuor5fFA&ab_channel=AlexSheng)
 
 I also write about music. They are mostly in Chinese and are published on my 微信公众号, although I plan to write some more in English in the future.
 
+[精神的归程——贝多芬降A大调第三十一号奏鸣曲Op. 110的演奏与哲学解读](https://mp.weixin.qq.com/s/hb6uCDo63NVmy11uM9QkWg) On Beethoven's piano sonata Op. 110.\
 [林寒涧肃，往事千端——马勒第九交响曲（第一乐章）](https://mp.weixin.qq.com/s/oknzztdfyN9fTTCO6I6gMw) On the first movement of Mahler's 9th symphony.\
 [追寻钟声的脚步](https://mp.weixin.qq.com/s/GmaqEDY9dhYV3VYhS5qB7w) Documenting my trip to Europe where I play on different caillons.\
 [所闻（一）](https://mp.weixin.qq.com/s/-czhqmV_LL7WGRndT3vSEg) Some concertgoing experiences.\
