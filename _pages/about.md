@@ -53,9 +53,10 @@ Class notes for the course _Brownian motion and stochastic calculus*_ with Prof.
 
 Music
 =====
-I play piano, organ, and [carillon](https://rockefeller.uchicago.edu/the-carillon). You can access some of my recordings on [Youtube](https://www.youtube.com/channel/UC8rZi3endlvKFcRgIQ51D9A) or [Bilibilibi](https://space.bilibili.com/350146251). Since I am not a professional musician, needless to say that they're far from perfect. Here are some Bach:
+I play piano, organ, and [carillon](https://rockefeller.uchicago.edu/the-carillon). You can access some of my recordings on [Youtube](https://www.youtube.com/channel/UC8rZi3endlvKFcRgIQ51D9A) or [Bilibilibi](https://space.bilibili.com/350146251). Since I am not a professional musician, needless to say that they're far from perfect. Here are some of them:
 
 J. S. Bach: Italian Concerto BWV 971 [first movemet](https://www.youtube.com/watch?v=hkrxylmRx6M&ab_channel=AlexSheng), [third movement](https://www.youtube.com/watch?v=Waee-g4nli0&ab_channel=AlexSheng)\
+Gubaidulina: [Chaconne](https://www.youtube.com/watch?v=LuwyZMN-AC8)\
 J. S. Bach: [Prelude and Fugue in E Major from WTC Book II (BWV 878)](https://www.youtube.com/watch?v=oTW7xSsUbEU&ab_channel=AlexSheng)\
 Medtner: [Sonata-Reminiscenza from _Forgotten Melodies_, Op. 38 No. 1](https://www.youtube.com/watch?v=-QdifBQKV6A)\
 J. S. Bach's Wachet auf, ruft uns die Stimme BWV 645 & Buxtehude's Prelude, Fugue & Chaconne in C Major, BuxWV 137 [recital](https://www.youtube.com/watch?v=FXLOuor5fFA&ab_channel=AlexSheng)
