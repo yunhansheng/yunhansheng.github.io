@@ -49,16 +49,16 @@ Class notes for the course _Algebra II (commutative algebra)*_ with Prof. Ngo Ba
 **Brownian motion and stochastic calculus**. [pdf](https://yunhansheng.github.io/files/385notes.pdf)\
 Class notes for the course _Brownian motion and stochastic calculus*_ with Prof. Greg Lawler.
 
-Music
+Miscellaneous
 =====
 I play piano, organ, and [carillon](https://rockefeller.uchicago.edu/the-carillon). You can access some of my recordings on [Youtube](https://www.youtube.com/channel/UC8rZi3endlvKFcRgIQ51D9A) or [Bilibilibi](https://space.bilibili.com/350146251). Here are some of them:
 
 J. S. Bach: [Prelude and Fugue in E Major from WTC Book II (BWV 878)](https://www.youtube.com/watch?v=dP7I1RQTZa4)\
 Gubaidulina: [Chaconne](https://www.youtube.com/watch?v=LuwyZMN-AC8)\
 Medtner: [Sonata-Reminiscenza from _Forgotten Melodies_, Op. 38 No. 1](https://www.youtube.com/watch?v=-QdifBQKV6A)\
-Organ recital [(Bach, Brahms, & Messiaen](https://www.youtube.com/watch?v=4nlRpDxigAI&t=298s)\
+Organ recital [(Bach, Brahms, & Messiaen)](https://www.youtube.com/watch?v=4nlRpDxigAI&t=298s)\
 
-I also write extensively about the intersection of music and philosophy. They are mostly in Chinese and are published on my 微信公众号, although I plan to write some more in English in the future. Here are some recent ones:
+I am broadly interested in metaphysics and ethics (Aristotle, Hegel, and Kierkegaard etc.). I often find connections between music and philosophy, so I write them down when I get a chance. They are mostly in Chinese and are published on my 微信公众号, although I plan to write some more in English in the future. Here are some recent ones:
 
 [精神的归程——贝多芬降A大调第三十一号奏鸣曲Op. 110的演奏与哲学解读](https://mp.weixin.qq.com/s/hb6uCDo63NVmy11uM9QkWg) On Beethoven's piano sonata Op. 110.\
 [追寻钟声的脚步](https://mp.weixin.qq.com/s/GmaqEDY9dhYV3VYhS5qB7w) Documenting my trip to Europe where I play on different caillons.\
