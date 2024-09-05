@@ -56,7 +56,7 @@ I play piano, organ, and [carillon](https://rockefeller.uchicago.edu/the-carillo
 J. S. Bach: [Prelude and Fugue in E Major from WTC Book II (BWV 878)](https://www.youtube.com/watch?v=dP7I1RQTZa4)\
 Gubaidulina: [Chaconne](https://www.youtube.com/watch?v=LuwyZMN-AC8)\
 Medtner: [Sonata-Reminiscenza from _Forgotten Melodies_, Op. 38 No. 1](https://www.youtube.com/watch?v=-QdifBQKV6A)\
-Organ recital [(Bach, Brahms, & Messiaen)](https://www.youtube.com/watch?v=4nlRpDxigAI&t=298s)\
+Organ recital [(Bach, Brahms, & Messiaen)](https://www.youtube.com/watch?v=4nlRpDxigAI&t=298s)
 
 I am broadly interested in philosophy (Aristotle, Hegel, and Kierkegaard etc.). I often find connections between music and philosophy, so I write them down when I get a chance. They are mostly in Chinese, although I do plan to write in English in the future. Here are some of them:
 
