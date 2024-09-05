@@ -58,13 +58,13 @@ Gubaidulina: [Chaconne](https://www.youtube.com/watch?v=LuwyZMN-AC8)\
 Medtner: [Sonata-Reminiscenza from _Forgotten Melodies_, Op. 38 No. 1](https://www.youtube.com/watch?v=-QdifBQKV6A)\
 Organ recital [(Bach, Brahms, & Messiaen)](https://www.youtube.com/watch?v=4nlRpDxigAI&t=298s)\
 
-I am broadly interested in metaphysics and ethics (Aristotle, Hegel, and Kierkegaard etc.). I often find connections between music and philosophy, so I write them down when I get a chance. They are mostly in Chinese, although I do plan to write some more in English in the future. Here are some of them:
+I am broadly interested in philosophy (Aristotle, Hegel, and Kierkegaard etc.). I often find connections between music and philosophy, so I write them down when I get a chance. They are mostly in Chinese, although I do plan to write in English in the future. Here are some of them:
 
 [精神的归程——贝多芬降A大调第三十一号奏鸣曲Op. 110的演奏与哲学解读](https://mp.weixin.qq.com/s/hb6uCDo63NVmy11uM9QkWg)\
 A Hegelian phenomenological interpretation of Beethoven's piano sonata Op. 110.\
 [追寻钟声的脚步](https://mp.weixin.qq.com/s/GmaqEDY9dhYV3VYhS5qB7w)\
-A Documentation of my trip to Europe where I played on different caillons. Perhaps related: [Ring of Saturn](https://en.wikipedia.org/wiki/The_Rings_of_Saturn)\
+A Documentation of my trip to Europe where I played on different caillons.
 [幻想曲式：北德管风琴学派与巴赫](https://mp.weixin.qq.com/s/_mw-4QJDOKoSm0dVjGMLqg)\
 On the topic of _Stylus Phantasticus_ as represented by the north German organ school.\
 [一篇德语翻译练习](https://mp.weixin.qq.com/s/M27uN_ACzHyyAs8nz0CaPQ)\
-A Chinese translation of a paper in German on Bach's[ _Pièce d'Orgue_ BWV 572](https://www.youtube.com/watch?v=9Lrv1oR1WU4&ab_channel=toxiconegro), a piece that I love dearly.
+A Chinese translation of a paper in German on Bach's[ _Pièce d'Orgue_ BWV 572](https://www.youtube.com/watch?v=9Lrv1oR1WU4&ab_channel=toxiconegro).
