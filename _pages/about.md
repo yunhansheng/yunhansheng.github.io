@@ -63,7 +63,7 @@ I am broadly interested in philosophy (Aristotle, Hegel, and Kierkegaard etc.). 
 [精神的归程——贝多芬降A大调第三十一号奏鸣曲Op. 110的演奏与哲学解读](https://mp.weixin.qq.com/s/hb6uCDo63NVmy11uM9QkWg)\
 A Hegelian phenomenological interpretation of Beethoven's piano sonata Op. 110.\
 [追寻钟声的脚步](https://mp.weixin.qq.com/s/GmaqEDY9dhYV3VYhS5qB7w)\
-A Documentation of my trip to Europe where I played on different caillons.
+A Documentation of my trip to Europe where I played on different caillons.\
 [幻想曲式：北德管风琴学派与巴赫](https://mp.weixin.qq.com/s/_mw-4QJDOKoSm0dVjGMLqg)\
 On the topic of _Stylus Phantasticus_ as represented by the north German organ school.\
 [一篇德语翻译练习](https://mp.weixin.qq.com/s/M27uN_ACzHyyAs8nz0CaPQ)\
