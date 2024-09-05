@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate student at the University of Chicago. Starting September 2024 I will be a PhD student at the University of Michigan at Ann Arbor.
+I am a first-year PhD student at the University of Michigan, Ann Arbor. My mathematical interest lies in the intersection of number theory, algebraic geometry, and homotopy theory.
 
-My mathematical interest lies in **homotopy theory**, **number theory**, **algebraic geometry**, and their areas of intersection. Stuff that I've enjoyed learning about include chromatic homotopy theory, K-theory, Galois representations, and Fourier–Mukai transform.
+I was an undergraduate student at the University of Chicago from 2020 to 2024. Before that, I spent my high school years in the beautiful city of [Maastricht](https://www.holland.com/upload_mm/d/f/c/69557_fullimage_sint-servaas-brug-maas-maastricht-stad-eighty8things-1360%20copy.jpg), the Netherlands. Before that, I lived a happy life in [Hefei](https://cdn.britannica.com/58/138758-050-E5300BEB/Hefei-Anhui-China.jpg), China.
 
-Before coming to Chicago, I spent my high school years in the beautiful city of [Maastricht](https://www.holland.com/upload_mm/d/f/c/69557_fullimage_sint-servaas-brug-maas-maastricht-stad-eighty8things-1360%20copy.jpg), the Netherlands. Before that, I lived a happy life in [Hefei](https://cdn.britannica.com/58/138758-050-E5300BEB/Hefei-Anhui-China.jpg), China.
-
-Here is my [cv](https://yunhansheng.github.io/files/cv.pdf). You can reach me at: yhsheng at uchicago dot edu.
+Here is my [cv](https://yunhansheng.github.io/files/cv.pdf). You can reach me at: yhsheng at umich dot edu.
 
 Expository writings
 ======
@@ -53,21 +51,16 @@ Class notes for the course _Brownian motion and stochastic calculus*_ with Prof.
 
 Music
 =====
-I play piano, organ, and [carillon](https://rockefeller.uchicago.edu/the-carillon). You can access some of my recordings on [Youtube](https://www.youtube.com/channel/UC8rZi3endlvKFcRgIQ51D9A) or [Bilibilibi](https://space.bilibili.com/350146251). Since I am not a professional musician, needless to say that they're far from perfect. Here are some of them:
+I play piano, organ, and [carillon](https://rockefeller.uchicago.edu/the-carillon). You can access some of my recordings on [Youtube](https://www.youtube.com/channel/UC8rZi3endlvKFcRgIQ51D9A) or [Bilibilibi](https://space.bilibili.com/350146251). Here are some of them:
 
-J. S. Bach: Italian Concerto BWV 971 [first movemet](https://www.youtube.com/watch?v=hkrxylmRx6M&ab_channel=AlexSheng), [third movement](https://www.youtube.com/watch?v=Waee-g4nli0&ab_channel=AlexSheng)\
+J. S. Bach: [Prelude and Fugue in E Major from WTC Book II (BWV 878)](https://www.youtube.com/watch?v=dP7I1RQTZa4)\
 Gubaidulina: [Chaconne](https://www.youtube.com/watch?v=LuwyZMN-AC8)\
-J. S. Bach: [Prelude and Fugue in E Major from WTC Book II (BWV 878)](https://www.youtube.com/watch?v=oTW7xSsUbEU&ab_channel=AlexSheng)\
 Medtner: [Sonata-Reminiscenza from _Forgotten Melodies_, Op. 38 No. 1](https://www.youtube.com/watch?v=-QdifBQKV6A)\
-J. S. Bach's Wachet auf, ruft uns die Stimme BWV 645 & Buxtehude's Prelude, Fugue & Chaconne in C Major, BuxWV 137 [recital](https://www.youtube.com/watch?v=FXLOuor5fFA&ab_channel=AlexSheng)
+Organ recital [(Bach, Brahms, & Messiaen](https://www.youtube.com/watch?v=4nlRpDxigAI&t=298s)\
 
-I also write about music. They are mostly in Chinese and are published on my 微信公众号, although I plan to write some more in English in the future.
+I also write extensively about the intersection of music and philosophy. They are mostly in Chinese and are published on my 微信公众号, although I plan to write some more in English in the future. Here are some recent ones:
 
 [精神的归程——贝多芬降A大调第三十一号奏鸣曲Op. 110的演奏与哲学解读](https://mp.weixin.qq.com/s/hb6uCDo63NVmy11uM9QkWg) On Beethoven's piano sonata Op. 110.\
-[林寒涧肃，往事千端——马勒第九交响曲（第一乐章）](https://mp.weixin.qq.com/s/oknzztdfyN9fTTCO6I6gMw) On the first movement of Mahler's 9th symphony.\
 [追寻钟声的脚步](https://mp.weixin.qq.com/s/GmaqEDY9dhYV3VYhS5qB7w) Documenting my trip to Europe where I play on different caillons.\
-[所闻（一）](https://mp.weixin.qq.com/s/-czhqmV_LL7WGRndT3vSEg) Some concertgoing experiences.\
-[幻想曲式：北德管风琴学派与巴赫](https://mp.weixin.qq.com/s/_mw-4QJDOKoSm0dVjGMLqg) This is translated from the final paper I wrote for a music course, on the topic of _Stylus Phantasticus_ as represented by the north German organ school.\
-[20210816](https://mp.weixin.qq.com/s/UOr-OVXynU4PzciSk6kH-g) Some random thoughts and reviews of recordings.\
-[暴风雨中的哲思——分析贝多芬d小调第十七号钢琴奏鸣曲](https://mp.weixin.qq.com/s/_wPQFxA-l9xM0IVSPOoOIg) A detailed analysis of Beethoven piano sonata No. 17, Op. 31/2.\
+[幻想曲式：北德管风琴学派与巴赫](https://mp.weixin.qq.com/s/_mw-4QJDOKoSm0dVjGMLqg) On the topic of _Stylus Phantasticus_ as represented by the north German organ school.\
 [一篇德语翻译练习](https://mp.weixin.qq.com/s/M27uN_ACzHyyAs8nz0CaPQ) This is a Chinese translation of a paper in German on Bach's[ _Pièce d'Orgue_ BWV 572](https://www.youtube.com/watch?v=9Lrv1oR1WU4&ab_channel=toxiconegro), a piece that I love dearly.
