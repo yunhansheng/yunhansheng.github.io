@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at the University of Michigan, Ann Arbor. My mathematical interest lies in the intersection of number theory, algebraic geometry, and homotopy theory.
+I am a second-year PhD student at the University of Michigan, Ann Arbor. My mathematical interest lies in the intersection of number theory, algebraic geometry, and homotopy theory.
 
 I was an undergraduate student at the University of Chicago from 2020 to 2024. Before that, I spent my high school years in the beautiful city of [Maastricht](https://www.holland.com/upload_mm/d/f/c/69557_fullimage_sint-servaas-brug-maas-maastricht-stad-eighty8things-1360%20copy.jpg), the Netherlands. Before that, I lived a happy life in [Hefei](https://cdn.britannica.com/58/138758-050-E5300BEB/Hefei-Anhui-China.jpg), China.
 
@@ -17,34 +17,31 @@ Here is my [cv](https://yunhansheng.github.io/files/cv.pdf). You can reach me at
 Expository writings
 ======
 **Notes on real orientations**. [pdf](https://yunhansheng.github.io/files/real.pdf)\
-This set of notes is written for a reading course supervised by Prof. Peter May, where I intend to explain in detail the results and argument of the paper _Real orientaions of Lubin-Tate spectra_ by Jeremy Hahn and XiaoLin Danny Shi. It also contains an exposition on the Ando-Blumberg-Gepner-Hopkins-Rezk construction of the Thom spectra functor.
+I intend to explain in detail the results and argument of the paper _Real orientaions of Lubin-Tate spectra_ by Jeremy Hahn and XiaoLin Danny Shi. It also contains an exposition on the Ando-Blumberg-Gepner-Hopkins-Rezk construction of the Thom spectra functor.
 
 **Cofreeness of Lubin-Tate theory**. [pdf](https://yunhansheng.github.io/files/cofree.pdf)\
 Final paper written for the 2023 UChicago REU. This article is a detailed survey of Section 3 of the 2020 paper _The chromatic Nullstellensatz_ by Burklund, Schlank, and Yuan. It aims to prove that at the level of algebras, Lubin-Tate theory _E_ is cofree, i.e., right adjoint to some forgetful functor forgetting the structure of power operations. This builds on my previous notes on power operations. 
 
 **Power operations and HKR character theory**. [pdf](https://yunhansheng.github.io/files/power.pdf)\
-These are some notes I took while reading Stapleton's survey paper _Lubin-Tate theory, character theory, and power operations_. It is about extending the power operations on Morava _E_-theory to the codomain of the Hopkins-Kuhn-Ravenel character map. Important results by Strickland and Ando-Hopkins-Strickland on the moduli-theoretic interpretation of Lubin-Tate theory is introduced.
+These are some notes I took while reading Stapleton's survey paper _Lubin-Tate theory, character theory, and power operations_. It is about extending the power operations on Morava _E_-theory to the codomain of the Hopkins-Kuhn-Ravenel character map. Important results by Strickland and Ando-Hopkins-Strickland on the moduli-theoretic interpretation of Lubin-Tate theory are also introduced.
 
 **Phylogenetic Treespace**. [pdf](https://yunhansheng.github.io/files/tree.pdf)\
 Slides of a participant talk given at the 2023 PCMI Undergraduate Summer School. It is based on the paper _Geometry of the Space of Phylogenetic Trees_ by Billera, Holmes, and Vogtmann.
 
 **Complex multiplication of elliptic curves and abelian varieties**. [pdf](https://yunhansheng.github.io/files/complexmultiplication.pdf)\
-Final paper written for the 2022 UChicago REU. Hilbert's twelfth problem asks: given an abelian extension of a number field _K_, what are its generators? When _K_ is an imaginary quadratic field, complex multiplication provides a solution. It turns out that in this case, the generators are closely related to certain invariants attached to an elliptic curve whose endomorphism group is the ring of integers of _K_.
+Final paper written for the 2022 UChicago REU.
 
 **Complex Multiplication**. [pdf](https://yunhansheng.github.io/files/REU_presentation__Copy_.pdf)\
 Slides of a participant talk given at the 2022 UChicago REU.
 
 **On realizing rational and polynomial cohomology rings**. [pdf](http://math.uchicago.edu/~may/REU2021/REUPapers/Sheng.pdf)\
-Final paper written for the 2021 UChicago REU. This paper focuses on the following _inverse cohomology_ problem: which graded _R_-algebras can be realized as the cohomology ring (with coefficients in _R_) of a topological space? We explain in detail the 1976 paper of Bousfield and Gugenheim, _On PL de Rham Theory and Rational Homotopy Type_, which solves the problem for _R_ is the ring of rational numbers. The paper uses Quillen's model categories in an essential way.
+Final paper written for the 2021 UChicago REU. This paper focuses on the following _inverse cohomology_ problem: which graded _R_-algebras can be realized as the cohomology ring (with coefficients in _R_) of a topological space? I explain in detail the 1976 paper of Bousfield and Gugenheim, _On PL de Rham Theory and Rational Homotopy Type_, which solves the problem for _R_ is the ring of rational numbers. The paper uses Quillen's model categories in an essential way.
 
 **Elements of complex K-theory**. [pdf](https://yunhansheng.github.io/files/K-theory.pdf)\
-Final project for the course *Proseminar in Mathematics* with Prof. Akhil Mathew. I focused on explaning how topological K-theory is related to singular cohomology via Chern characters, the Atiyah-Hirzebruch spectral sequence, and the Adams operation.
+I focused on explaning how topological K-theory is related to singular cohomology via three things: Chern characters, the Atiyah-Hirzebruch spectral sequence, and the Adams operation.
 
 **Kähler manifolds and Hodge theory**. [pdf](https://yunhansheng.github.io/files/hodge.pdf)\
-Final project for the course *Topology and Geometry 2: Differential Topology* with Prof. Eduard Looijenga. I wrote about the basics of complex and Kähler manifolds, and outlined a proof of Hodge decomposition assuming the regularity lemma from functional analysis. I also discussed some applications of Hodge theory.
-
-**Commutative ring theory**. [pdf](https://yunhansheng.github.io/files/commalg-notes.pdf)\
-Class notes for the course _Algebra II (commutative algebra)*_ with Prof. Ngo Bao Chau.
+I wrote about the basics of complex and Kähler manifolds, and outlined a proof of Hodge decomposition assuming the regularity lemma from functional analysis. I also discussed some applications of Hodge theory.
 
 **Brownian motion and stochastic calculus**. [pdf](https://yunhansheng.github.io/files/385notes.pdf)\
 Class notes for the course _Brownian motion and stochastic calculus*_ with Prof. Greg Lawler.
