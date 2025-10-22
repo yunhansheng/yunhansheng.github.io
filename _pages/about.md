@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,20 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at the University of Michigan, Ann Arbor. I was an undergraduate student at the University of Chicago from 2020 to 2024. Before that, I spent my high school years in the beautiful city of [Maastricht](https://www.holland.com/upload_mm/d/f/c/69557_fullimage_sint-servaas-brug-maas-maastricht-stad-eighty8things-1360%20copy.jpg), the Netherlands. Before that, I lived a happy life in [Hefei](https://cdn.britannica.com/58/138758-050-E5300BEB/Hefei-Anhui-China.jpg), China.
+I am a second-year PhD student at the University of Michigan, Ann Arbor.
+I was an undergraduate student at the University of Chicago from 2020 to 2024.
+Before that, I spent my high school years in the beautiful city of [Maastricht](https://www.holland.com/upload_mm/d/f/c/69557_fullimage_sint-servaas-brug-maas-maastricht-stad-eighty8things-1360%20copy.jpg), the Netherlands.
+Before that, I lived a happy life in [Hefei](https://cdn.britannica.com/58/138758-050-E5300BEB/Hefei-Anhui-China.jpg), China.
 
 Here is my [cv](https://yunhansheng.github.io/files/cv.pdf) (outdated). You can reach me at: yhsheng at umich dot edu.
 
 Writings
 ======
 **Number theory**
-======
 [The S-unit equation using Lawrence-Venkatesh](https://yunhansheng.github.io/files/lv.pdf)\
 [Kolyvagin systems](https://yunhansheng.github.io/files/Kolyvagin.pdf)\
 [Complex multiplication](https://yunhansheng.github.io/files/complexmultiplication.pdf)
 
 **Homotopy theory**
-======
 [Notes on real orientations](https://yunhansheng.github.io/files/real.pdf)\
 [Cofreeness of Lubin-Tate theory](https://yunhansheng.github.io/files/cofree.pdf)\
 [Power operations and HKR character theory](https://yunhansheng.github.io/files/power.pdf)\
@@ -29,7 +30,6 @@ Writings
 [Complex K-theory](https://yunhansheng.github.io/files/K-theory.pdf)
 
 **Miscellaneous**
-======
 [The structure theory of complete local rings](https://yunhansheng.github.io/files/cohen.pdf)\
 [Phylogenetic Treespace](https://yunhansheng.github.io/files/tree.pdf)\
 [Kähler manifolds and Hodge theory](https://yunhansheng.github.io/files/hodge.pdf)
