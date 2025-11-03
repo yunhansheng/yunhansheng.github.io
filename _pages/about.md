@@ -44,6 +44,7 @@ I play piano, organ, and [carillon](https://rockefeller.uchicago.edu/the-carillo
 [Medtner: Sonata-Reminiscenza from _Forgotten Melodies_, Op. 38 No. 1](https://www.youtube.com/watch?v=-QdifBQKV6A)
 
 **Organ**\
+[Franck: Chorale No. 3 in A minor](https://www.youtube.com/watch?v=DOmEpotVGIw)\
 [Organ recital (Tunder, Brahms, Messiaen, 04/10/25)](https://www.youtube.com/watch?v=uPvrHBVQCOA)\
 [Organ recital (Bach, Brahms, Messiaen, 05/26/24)](https://www.youtube.com/watch?v=4nlRpDxigAI&t=298s)
 
